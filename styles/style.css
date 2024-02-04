@@ -134,7 +134,7 @@ address {
   color: #ffffff;
   text-transform: uppercase;
   background-color: transparent;
-  border: 1px solid #ffffff;
+  border: 1px solid currentColor;
   padding: 12px 32px;
   z-index: 3;
 }
