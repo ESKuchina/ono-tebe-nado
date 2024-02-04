@@ -112,7 +112,7 @@ address {
   display: flex;
   flex-flow: row nowrap;
   gap: 79px;
-  justify-content: space-around;
+  justify-content: end;
   align-items: center;
   padding: 0px 50px 50px;
 }
@@ -239,7 +239,7 @@ address {
   gap: 30px;
 }
 
-:nth-child(2) {
+.about__column:nth-child(2) {
   align-items: start;
 }
 
